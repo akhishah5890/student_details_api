@@ -1,2 +1,2 @@
 <?php 
-echo "Api Data";
+echo "Student Api Data";
